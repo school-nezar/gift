@@ -1,0 +1,12 @@
+C:\Users\nezar\source\repos\gift1\gift1\bin\Debug\gift1.exe.config
+C:\Users\nezar\source\repos\gift1\gift1\bin\Debug\gift1.exe
+C:\Users\nezar\source\repos\gift1\gift1\bin\Debug\gift1.pdb
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.csprojAssemblyReference.cache
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.Form1.resources
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.Properties.Resources.resources
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.csproj.GenerateResource.cache
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.exe
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.pdb
+C:\Users\nezar\source\repos\gift1\gift1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.csproj.CopyComplete
+C:\Users\nezar\source\repos\gift1\gift1\obj\Debug\gift1.Form2.resources
